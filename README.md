@@ -1,9 +1,42 @@
-# Project Name
-
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
+# Weekend React Gallery
 
 ## Description
 
-Your project description goes here. What problem did you solve? How did you solve it?
+Duration: 2 day sprint
 
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+Created a gallery to display images and like each image with a like tracker.
+
+To see the fully functional site, please visit: localhost:3000
+
+## Prerequisites
+
+Software required to run:
+- node.js
+- body-parser
+- axios
+- express
+
+## Installation
+
+1. import images into images folder
+2. create new array index with image, discription, id, and likes
+3. npm run server
+4. npm run client
+
+## Usage
+
+1. run server and client
+2. view images at localhost:3000
+3. increase likes on images of choosing
+
+## Build With
+
+javascript
+react
+
+## Acknowledgement
+Thanks to Prime Digital Academy who equipped and helped me to make this application a reality.
+
+## Support
+If you have suggestions or issues, please email me at jordan.wolter@icloud.com
+
