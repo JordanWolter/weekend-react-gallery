@@ -6,7 +6,7 @@
   background-color: #222;
   padding: 1em;
   color: white;
-  margin-bottom: 1em;
+  margin-bottom: 25px;
 }
 
 .App-title {
@@ -46,11 +46,15 @@
 .discription{
     width: 165px;
     height: 138px;
-    margin: 5px;
+    margin: 10px;
+    margin-top: 40%;
+    margin-bottom: auto;
 }
 
 .like{
     margin-top: 0;
+    color: white;
+    box-shadow: #222;
 }
 
 .box{
@@ -60,6 +64,7 @@
 
 html {
     background-image:linear-gradient(#eee, #aaa);
+    background-image: url(/Users/jordanwolter/Prime/week10/weekend-react-gallery/public/images/old-brick-wall-background-brick-2779561.jpeg);
     height:auto;
     width:auto;
   }
